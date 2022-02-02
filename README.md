@@ -1,0 +1,2 @@
+# TicketrNuxt
+Created with CodeSandbox
